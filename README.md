@@ -15,10 +15,9 @@ Este repositorio contiene los tareas y ejercicios realizados durante mis estudio
 
 La estructura del proyecto se organiza por materias para facilitar la navegación:
 
-```text
-/Semestre-X
-└── /Nombre-Materia
-    └── /Tareas
+/Semestre-X \
+└── /Nombre-Materia \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └── /Tareas
 
 
 ---
