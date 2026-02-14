@@ -4,17 +4,18 @@ Este repositorio contiene los tareas y ejercicios realizados durante mis estudio
 
 ## 🎓 Materias y Contenido
 
-### [Semestre 2]
-* **[Análisis de la Bolsa de Valores usando IA]**
-* **[Preprocesamiento para Ciencia de Datos]** 
-* **[Analítica de Texto y Modelos de Lenguaje]** 
-* **[Procesamiento de Lenguaje Natural]** 
+### Semestre 2
+* **Análisis de la Bolsa de Valores usando IA**
+* **Preprocesamiento para Ciencia de Datos** 
+* **Analítica de Texto y Modelos de Lenguaje** 
+* **Procesamiento de Lenguaje Natural** 
 
 
 ## 📂 Organización del Repositorio
 
 La estructura del proyecto se organiza por materias para facilitar la navegación:
 
+```text
 /Semestre-X
 └── /Nombre-Materia
     └── /Tareas
