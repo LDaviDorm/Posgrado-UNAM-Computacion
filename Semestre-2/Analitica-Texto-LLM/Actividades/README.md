@@ -8,7 +8,7 @@ Para la elaboración de estas actividades se utilizó lo siguiente:
 * **IDE:** Visual Studio Code (VS Code)
 * **Gestor de entornos:** Anaconda (Conda)
 * **Lenguaje:** Python 3.10
-* **Librerías principales:** NLTK, spaCy y Stanza
+* **Librerías principales:** NLTK, spaCy, Stanza y  Scikit-learn
 
 ## ⚙️ Configuración del Entorno
 
@@ -32,3 +32,6 @@ python -m spacy download es_core_news_sm
 
 # 4. Instalar Stanza
 pip install stanza
+
+# 5. Instalar  Scikit-learn
+conda install scikit-learn
